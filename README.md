@@ -25,3 +25,36 @@ The **Weight Tracking App** is a simple and user-friendly mobile application des
 1. Download the project as a ZIP file or clone the repository:
    ```bash
    git clone https://github.com/YancarloG/weight-tracking-app.git
+2. Open the project in **Android Studio**.
+3. Sync the project with Gradle files.
+4. Build and run the app on an emulator or connected device.
+
+---
+
+## 🎮 Usage
+1. Open the app and create a profile (optional).
+2. Log your daily weight in the input field.
+3. View progress in the tracking section (logs and visual data).
+4. Set and adjust weight goals to stay on track.
+
+---
+
+## 🔮 Future Improvements
+- ☁️ Integration with cloud storage for data backup and sync.
+- ⏰ Adding reminders for weight logging.
+- 📉 Support for additional metrics like BMI and body fat percentage.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+
+## ✍️ Author
+**Yancarlo Guzman**  
+- [GitHub Profile](https://github.com/YancarloG)
+
+---
+
+Feel free to contribute to this project by submitting issues or pull requests! 💡
