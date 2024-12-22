@@ -1,7 +1,7 @@
 # 🌟 Weight Tracking App
 
 ## 📋 Overview
-The **Weight Tracking App** is a simple and user-friendly mobile application designed to help users monitor and manage their weight over time. Developed as part of a mobile development course, the app emphasizes clean design, functionality, and user-centered features. This repository contains the source code and assets for the app, which was created using **Android Studio**.
+The **Weight-Tracking-App** is a simple and user-friendly mobile application designed by me to help users monitor and manage their weight over time. Developed as part of a mobile development course, the app emphasizes clean design, functionality, and user-centered features. This repository contains the source code and assets for the app, which was created using **Android Studio**.
 
 ---
 
